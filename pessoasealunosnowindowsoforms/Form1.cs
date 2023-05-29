@@ -7,6 +7,7 @@ namespace pessoasealunosnowindowsoforms
             InitializeComponent();
             arquivo = new OpenFileDialog();
         }
+
         private void botao_Click(object sender, EventArgs e)
         {
             arquivo.Filter = "Arquivos de Texto|*.txt";
@@ -60,8 +61,23 @@ namespace pessoasealunosnowindowsoforms
                         alunos.Add(aluno);
                     }
                 }
+
                 texto.Text = "Pessoas: " + pessoas.Count + "\nAlunos: " + alunos.Count;
+
+                lista.Items.Clear();
+                foreach (Pessoa pessoa in pessoas)
+                {
+                    string nomePessoa = pessoa.Nom;
+                    if (alunos.Any(a => a.Nom == pessoa.Nom))
+                    {
+                        string cursos = string.Join(", ", alunos.Where(a => a.Nom == pessoa.Nom).SelectMany(a => a.Curso));
+                        nomePessoa += " (" + cursos + ")";
+                    }
+
+                    lista.Items.Add(nomePessoa);
+                }
             }
         }
     }
 }
+

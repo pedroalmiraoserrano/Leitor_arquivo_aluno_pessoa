@@ -31,6 +31,7 @@
             arquivo = new OpenFileDialog();
             botao = new Button();
             texto = new Label();
+            lista = new ListBox();
             SuspendLayout();
             // 
             // arquivo
@@ -57,11 +58,21 @@
             texto.TabIndex = 1;
             texto.TextAlign = ContentAlignment.MiddleCenter;
             // 
+            // lista
+            // 
+            lista.FormattingEnabled = true;
+            lista.ItemHeight = 15;
+            lista.Location = new Point(249, 21);
+            lista.Name = "lista";
+            lista.Size = new Size(241, 214);
+            lista.TabIndex = 2;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(280, 271);
+            ClientSize = new Size(512, 271);
+            Controls.Add(lista);
             Controls.Add(texto);
             Controls.Add(botao);
             Name = "Form1";
@@ -75,5 +86,6 @@
         private OpenFileDialog arquivo;
         private Button botao;
         private Label texto;
+        private ListBox lista;
     }
 }
