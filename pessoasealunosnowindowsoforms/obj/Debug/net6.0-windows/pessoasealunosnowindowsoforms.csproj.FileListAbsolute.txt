@@ -1,0 +1,17 @@
+C:\Users\Usuario\source\repos\pessoasealunosnowindowsoforms\pessoasealunosnowindowsoforms\bin\Debug\net6.0-windows\pessoasealunosnowindowsoforms.exe
+C:\Users\Usuario\source\repos\pessoasealunosnowindowsoforms\pessoasealunosnowindowsoforms\bin\Debug\net6.0-windows\pessoasealunosnowindowsoforms.deps.json
+C:\Users\Usuario\source\repos\pessoasealunosnowindowsoforms\pessoasealunosnowindowsoforms\bin\Debug\net6.0-windows\pessoasealunosnowindowsoforms.runtimeconfig.json
+C:\Users\Usuario\source\repos\pessoasealunosnowindowsoforms\pessoasealunosnowindowsoforms\bin\Debug\net6.0-windows\pessoasealunosnowindowsoforms.dll
+C:\Users\Usuario\source\repos\pessoasealunosnowindowsoforms\pessoasealunosnowindowsoforms\bin\Debug\net6.0-windows\pessoasealunosnowindowsoforms.pdb
+C:\Users\Usuario\source\repos\pessoasealunosnowindowsoforms\pessoasealunosnowindowsoforms\obj\Debug\net6.0-windows\pessoasealunosnowindowsoforms.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\pessoasealunosnowindowsoforms\pessoasealunosnowindowsoforms\obj\Debug\net6.0-windows\pessoasealunosnowindowsoforms.Form1.resources
+C:\Users\Usuario\source\repos\pessoasealunosnowindowsoforms\pessoasealunosnowindowsoforms\obj\Debug\net6.0-windows\pessoasealunosnowindowsoforms.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\pessoasealunosnowindowsoforms\pessoasealunosnowindowsoforms\obj\Debug\net6.0-windows\pessoasealunosnowindowsoforms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\pessoasealunosnowindowsoforms\pessoasealunosnowindowsoforms\obj\Debug\net6.0-windows\pessoasealunosnowindowsoforms.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\pessoasealunosnowindowsoforms\pessoasealunosnowindowsoforms\obj\Debug\net6.0-windows\pessoasealunosnowindowsoforms.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\pessoasealunosnowindowsoforms\pessoasealunosnowindowsoforms\obj\Debug\net6.0-windows\pessoasealunosnowindowsoforms.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\pessoasealunosnowindowsoforms\pessoasealunosnowindowsoforms\obj\Debug\net6.0-windows\pessoasealunosnowindowsoforms.dll
+C:\Users\Usuario\source\repos\pessoasealunosnowindowsoforms\pessoasealunosnowindowsoforms\obj\Debug\net6.0-windows\refint\pessoasealunosnowindowsoforms.dll
+C:\Users\Usuario\source\repos\pessoasealunosnowindowsoforms\pessoasealunosnowindowsoforms\obj\Debug\net6.0-windows\pessoasealunosnowindowsoforms.pdb
+C:\Users\Usuario\source\repos\pessoasealunosnowindowsoforms\pessoasealunosnowindowsoforms\obj\Debug\net6.0-windows\pessoasealunosnowindowsoforms.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\pessoasealunosnowindowsoforms\pessoasealunosnowindowsoforms\obj\Debug\net6.0-windows\ref\pessoasealunosnowindowsoforms.dll
